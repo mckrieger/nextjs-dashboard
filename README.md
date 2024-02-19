@@ -1,19 +1,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mckrieger/nextjs-dashboard">
+  <!-- <a href="https://github.com/mckrieger/nextjs-dashboard">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Next.js Dashboard</h3>
 
   <p align="center">
     A template dashboard for your business
     <br />
-    <a href="https://github.com/mckrieger/nextjs-dashboard"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mckrieger/nextjs-dashboard?tab=readme-ov-file#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mckrieger/nextjs-dashboard">View Demo</a>
+    <a href="https://nextjs-dashboard-nine-pied-21.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/mckrieger/nextjs-dashboard/issues">Report Bug</a>
     ·
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 I wanted to create a dashboard that was versatile, customizable, and modern, using lightweight, performant technologies.
 
@@ -68,18 +68,14 @@ Since every project/business is different, I hope to make this dashboard as flex
 
 View the demo by clicking the link above.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![TypeScript][TypeScript.com]][TypeScript-url]
-* [![Tailwind][Tailwind.com]][Tailwind-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* [![TypeScript][TypeScript]][TypeScript-url]
+* [![Tailwind][Tailwind]][Tailwind-url]
 
 
 
@@ -113,9 +109,7 @@ _Below is an example of how you can instruct your audience on installing and set
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+   ``` -->
 
 
 
@@ -124,9 +118,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
@@ -141,9 +133,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/mckrieger/nextjs-dashboard/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+See the [open issues](https://github.com/mckrieger/nextjs-dashboard/issues) for a full list of proposed features (and known issues). -->
 
 <!-- Technical Features -->
 ## Technical Features
@@ -222,8 +212,6 @@ Because one of my primary aims is to work with the latest technologies to optimi
 		- The async holes are streamed in parallel, reducing the overall load time of the page.
 	- Partial Prerendering combines ultra-quick static edge delivery with fully dynamic capabilities and we believe it has the potential to [become the default rendering model for web applications](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model), bringing together the best of static site generation and dynamic delivery.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -238,16 +226,12 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -258,22 +242,16 @@ McKean Krieger -  - mckean.krieger@gmail.com
 
 Project Link: [https://github.com/mckrieger/nextjs-dashboard](https://github.com/mckrieger/nextjs-dashboard)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -300,10 +278,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[TypeScript]: https://img.shields.io/badge/Typescript-4A4A55?style=for-the-badge&logo=typescript&logoColor=FF3E00
+[Typescript-url]: https://www.typescriptlang.org/
+[Tailwind]: https://img.shields.io/badge/Tailwind-FF2D20?style=for-the-badge&logo=tailwind&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
